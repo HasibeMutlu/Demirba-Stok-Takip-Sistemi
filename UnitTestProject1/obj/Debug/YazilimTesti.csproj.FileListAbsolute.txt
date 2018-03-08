@@ -1,0 +1,2 @@
+C:\Users\hasib\source\repos\YazılımSınamaProje1\UnitTestProject1\obj\Debug\YazilimTesti.csprojResolveAssemblyReference.cache
+C:\Users\hasib\source\repos\YazılımSınamaProje1\UnitTestProject1\obj\Debug\YazilimTesti.csproj.CoreCompileInputs.cache

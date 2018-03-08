@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazılımSınamaProje1", "YazılımSınamaProje1\YazılımSınamaProje1.csproj", "{13BE4E6D-606F-4168-A43A-07380C4B59BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimTest", "YazilimTest\YazilimTest.csproj", "{0078FDD7-C970-4329-946B-7E0850C2AF45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13BE4E6D-606F-4168-A43A-07380C4B59BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BE4E6D-606F-4168-A43A-07380C4B59BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BE4E6D-606F-4168-A43A-07380C4B59BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BE4E6D-606F-4168-A43A-07380C4B59BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0078FDD7-C970-4329-946B-7E0850C2AF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0078FDD7-C970-4329-946B-7E0850C2AF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0078FDD7-C970-4329-946B-7E0850C2AF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0078FDD7-C970-4329-946B-7E0850C2AF45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1843D876-AA9C-46C9-A718-C79B38EACC7D}
+	EndGlobalSection
+EndGlobal

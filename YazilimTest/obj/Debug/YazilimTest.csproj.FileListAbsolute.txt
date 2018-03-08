@@ -1,0 +1,16 @@
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\obj\Debug\YazilimTest.csproj.CoreCompileInputs.cache
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\YazilimTest.dll
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\YazilimTest.pdb
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\YazılımSınamaProje1.exe
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\YazılımSınamaProje1.pdb
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\YazılımSınamaProje1.exe.config
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\obj\Debug\YazilimTest.dll
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\obj\Debug\YazilimTest.pdb
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazilimTest\obj\Debug\YazilimTest.csprojResolveAssemblyReference.cache

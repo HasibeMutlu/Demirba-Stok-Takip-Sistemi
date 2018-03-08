@@ -1,0 +1,11 @@
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazılımSınamaProje1\bin\Debug\YazılımSınamaProje1.exe.config
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazılımSınamaProje1\bin\Debug\YazılımSınamaProje1.exe
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazılımSınamaProje1\bin\Debug\YazılımSınamaProje1.pdb
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazılımSınamaProje1\obj\Debug\YazılımSınamaProje1.Properties.Resources.resources
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazılımSınamaProje1\obj\Debug\YazılımSınamaProje1.csproj.GenerateResource.Cache
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazılımSınamaProje1\obj\Debug\YazılımSınamaProje1.csproj.CoreCompileInputs.cache
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazılımSınamaProje1\obj\Debug\YazılımSınamaProje1.exe
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazılımSınamaProje1\obj\Debug\YazılımSınamaProje1.pdb
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazılımSınamaProje1\obj\Debug\YazılımSınamaProje1.frmDemirbasStokTakip.resources
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazılımSınamaProje1\obj\Debug\YazılımSınamaProje1.Personel_Yetki_Islemi.resources
+C:\Users\hasib\source\repos\YazılımSınamaProje1\YazılımSınamaProje1\obj\Debug\YazılımSınamaProje1.csprojResolveAssemblyReference.cache
